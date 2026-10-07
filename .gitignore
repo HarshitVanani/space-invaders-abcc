@@ -1,2 +1,5 @@
 highscore.json
 __pycache__/
+build/
+dist/
+__pycache__/
